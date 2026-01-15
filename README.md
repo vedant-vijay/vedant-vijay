@@ -10,7 +10,9 @@
 
 <p align="center">
   <a href="mailto:vedantrokade159@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/vedant-rokade" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/
+vedant-rokade-791a77236
+" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/vedant-vijay"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -257,3 +259,4 @@ I'm always open to:
 <div align="center">
   <h3>⭐️ From <a href="https://github.com/vedant-vijay">vedant-vijay</a> | Let's build something amazing together! 🚀</h3>
 </div>
+
